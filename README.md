@@ -9,7 +9,7 @@ sudah diluar tanggung jawab author.
 #### Install Script Di Termux
  Disarankan Untuk Memakai Termux Fdroid, Unduh Aplikasi Nya [Disini](https://f-droid.org/repo/com.termux_118.apk)
  ```
- bash -c "$(curl -k -L --max-redirs 15 https://raw.githubusercontent.com/RozhBasXYZ/INSTAROZ/main/install.sh)"
+ bash -c "$(curl -k -L --max-redirs 15 https://raw.githubusercontent.com/RozhBasXYZ/NEW-INSTAROZ/main/install.sh)"
  ```
 #### Cara Untuk Update
  ```
