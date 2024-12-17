@@ -2,7 +2,7 @@ import os,sys,shutil
 from distutils.core import setup, Extension
 from Cython.Build import cythonize
 
-main_file = "instarozh.cpp"
+main_file = "instaroz.cpp"
 try:
 	nama = main_file.split(".")[0]
 	setup(
