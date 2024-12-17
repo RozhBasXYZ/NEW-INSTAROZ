@@ -2,3 +2,4 @@ request
 bs4
 pystyle
 pytz
+cython
