@@ -15,11 +15,11 @@ sudah diluar tanggung jawab author.
  ```
  $ cd $HOME/NEW-INSTAROZ
  $ git pull
- $ python build.py
- $ python run.py
+ $ python3.10 build.py
+ $ python3.10 run.py
  ```
 #### Jika Sudah Install Script Run Dengan Ini
  ```
  $ cd $HOME/INSTAROZ
- $ python run.py
+ $ python3.10 run.py
 ```
