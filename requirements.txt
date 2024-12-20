@@ -3,3 +3,4 @@ bs4
 pystyle
 pytz
 cython
+httpx
