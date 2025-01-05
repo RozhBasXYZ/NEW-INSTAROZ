@@ -1,4 +1,4 @@
-# INSTAROZ LITE VERSION
+# INSTAROZ NEW VERSION
 ```
           ⚠️ WARNING ⚠️
 ini adalah script ilegal segala bentuk
@@ -20,6 +20,6 @@ sudah diluar tanggung jawab author.
  ```
 #### Jika Sudah Install Script Run Dengan Ini
  ```
- $ cd $HOME/INSTAROZ
+ $ cd $HOME/NEW-INSTAROZ
  $ python3.10 run.py
 ```
