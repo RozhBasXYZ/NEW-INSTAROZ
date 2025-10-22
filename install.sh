@@ -5,7 +5,7 @@ pkg update -y && pkg upgrade -y
 echo -e "\n install new repository: tur-repo ...\n"
 pkg install tur-repo -y && pkg update -y
 echo -e "\n install package and dependencies ...\n"
-pkg install git pystyle subprocess struct bs4 python3.10 -y
+pkg install git pystyle subprocess struct bs4 requests-toolbelt python3.10 -y
 echo 'alias python3="python3.10"' >> $PREFIX/etc/bash.bashrc
 echo 'alias pip="python3.10 -m pip"' >> $PREFIX/etc/bash.bashrc
 source $PREFIX/etc/bash.bashrc
