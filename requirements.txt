@@ -4,3 +4,6 @@ pystyle
 pytz
 cython
 httpx
+subprocess
+struct
+requests-toolbelt
