@@ -20,6 +20,6 @@ sudah diluar tanggung jawab author.
  ```
 #### Jika Sudah Install Script Run Dengan Ini
  ```
- $ cd $HOME/NEW-INSTAROZ
- $ python3.10 run.py
+ $ cd $HOME/NEW-INSTAROZ && python3.10 run.py
+
 ```
