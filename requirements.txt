@@ -4,5 +4,4 @@ pystyle
 pytz
 cython
 httpx
-struct
 requests-toolbelt
