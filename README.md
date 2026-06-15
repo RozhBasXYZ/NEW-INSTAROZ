@@ -1,4 +1,4 @@
-# INSTAROZ NEW VERSION
+# INSTAROZ NEW VERSION ( CLOSE )
 ```
           ⚠️ WARNING ⚠️
 ini adalah script ilegal segala bentuk
